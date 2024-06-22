@@ -2,9 +2,9 @@
 .calculator{
   width: 25rem;
   height: auto;
-  margin: 20px;
+  margin:auto ;
   background: #3a4452;
-  padding: 20px;
+ 
   border-radius: 10px;
   box-shadow: 2px 2px 2px rgb(251, 245, 245) ;
   
