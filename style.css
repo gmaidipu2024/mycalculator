@@ -1,14 +1,8 @@
-.container{
-  
-  background: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 .calculator{
- 
- 
-  margin: 50px;
+  width: 25rem;
+  height: auto;
+  margin: 20px;
   background: #3a4452;
   padding: 20px;
   border-radius: 10px;
